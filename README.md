@@ -1,5 +1,5 @@
 # VEHICLE-INSURANCE-ANALYSIS
-Title - Vehicle Insurance EDA and boosting models
+Title - Vehicle Insurance Analysis
 
 Technologies - Azure Databricks , JDk , pyspark , python
 
